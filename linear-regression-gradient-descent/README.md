@@ -14,11 +14,11 @@ This is the code for a small dataset on mapping the relationship between the tes
 
 After running the code `python3 linearreg.py`, I get the following results:
 
-```Starting gradient descent at b = 0, m = 0, error = 5565.10783448
+`Starting gradient descent at b = 0, m = 0, error = 5565.10783448
 
 Running...
 
-After 1000 iterations b = 0.0443898081852, m = 1.44277287208, error = 115.841903307```
+After 1000 iterations b = 0.0443898081852, m = 1.44277287208, error = 115.841903307`
 
 #### Dependencies
 -----------------------------------------------------------------------------
